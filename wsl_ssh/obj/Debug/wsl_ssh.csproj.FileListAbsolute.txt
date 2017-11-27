@@ -1,0 +1,8 @@
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\bin\Debug\wsl_ssh.exe.config
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\bin\Debug\wsl_ssh.exe
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\bin\Debug\wsl_ssh.pdb
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\obj\Debug\wsl_ssh.csprojResolveAssemblyReference.cache
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\obj\Debug\wsl_ssh.Properties.Resources.resources
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\obj\Debug\wsl_ssh.csproj.GenerateResource.Cache
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\obj\Debug\wsl_ssh.exe
+C:\Projects\BarkerEST\wsl_ssh\wsl_ssh\obj\Debug\wsl_ssh.pdb
