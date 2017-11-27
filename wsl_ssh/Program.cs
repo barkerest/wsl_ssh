@@ -33,7 +33,14 @@ namespace wsl_ssh
             }
             finally
             {
-                p.Kill();
+                try
+                {
+                    p.Kill();
+                }
+                catch
+                {
+                    // ignore.
+                }
             }
         }
     }
